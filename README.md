@@ -14,7 +14,7 @@ The purpose of this project was to implement machine learning on a topic of inte
 Tools used to make this project possible include but were not limited to:
 
     - Sci-Kit Learn
-    - ython Pandas
+    - Python Pandas
     - Python Seaborn
     - Python Flask
     - HTML/CSS/Bootstrap
